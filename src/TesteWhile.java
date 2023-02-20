@@ -4,7 +4,7 @@ public class TesteWhile {
 
         while (contador <= 10) {
             System.out.println(contador);
-            //Contador = contadpr + 1;
+            //Contador = contador + 1;
             // contador+=1;
             contador++;
         }
